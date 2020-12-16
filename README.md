@@ -8,7 +8,6 @@ Skills: Python | C++ | C | HTML | CSS
 
 - 🔭 I’m currently working on a simple password generator 
 - 🌱 I’m currently learning Django 
-- 😄 Pronouns: He 
 - ⚡ Fun fact: I don't drink tea or coffee 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kk1708&show_icons=true)  
