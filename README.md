@@ -4,7 +4,7 @@
 
 I analyse data and make observations based off of it. I also make scripts and programs that simplifies a certain task for me.
 
-Skills: Data Science | Python | C | C++
+Skills: Data Science | Python | C | C++ | React JS
 
 - 🔭 I’m currently working on some Data Science projects
 - 🌱 I’m currently learning NLP and Neural Networks
